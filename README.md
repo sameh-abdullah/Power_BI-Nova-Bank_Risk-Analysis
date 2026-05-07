@@ -1,9 +1,9 @@
 # 🏦 Nova Bank Risk Analysis Dashboard (Power BI)
 
 ## 📌 Overview
-This project presents an interactive **Power BI dashboard** for healthcare analysis. It is designed to uncover insights that can drive better healthcare decisions, optimize costs, and improve patient outcomes.
+This project presents an interactive **Power BI dashboard** for Nova Bank, Risk analysis. It is designed to find the right balance and to help the bank understand who tends to default and why, and how lending decisions can be made more reliable.
 
-The dashboard tells the story of patient care across hospitals, identifies trends, and helps stakeholders make data-informed decisions.
+The dashboard tells the story of loan amount across different dimensions, identifies trends, and helps stakeholders make data-informed decisions.
 
 ---
 
@@ -22,8 +22,8 @@ The dashboard tells the story of patient care across hospitals, identifies trend
 ---
 
 ## 📂 Dataset
-- **Source:** Excel file (`Healthcare Analysis Dataset.xlsx`)
-- **Main Table:** `healthcareData`
+- **Source:** Excel file (`Credit_Risk_Dataset.xlsx`)
+- **Main Table:** `Credit_Risk_Data`
 
 ## 📝 Key Features
 - Total patients, total bills, and average service time tracking
@@ -50,7 +50,7 @@ Star schema with a fact table and lookup tables
 ---
 
 ## 📈 Dashboard Features
-- Interactive filter (year)
+- Interactive filter (city, defualted, history length, loan term months)
 - KPI cards for quick insights
 - Comparative analysis
 - Visualizations:
@@ -59,6 +59,7 @@ Star schema with a fact table and lookup tables
   - Pie charts  
   - Trend analysis  
   - Distribution visuals
+  - Map
 
 ---
 
@@ -66,9 +67,7 @@ Star schema with a fact table and lookup tables
 **Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiMTZkY2Y0N2UtMzg4MS00MzQ2LTg5YzgtMTc2MzIxYjUxZDI2IiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Nova Bank risk analysis Dashboard</a></br>
 
 **Project Dashboard Image**
-<img src="https://github.com/sameh-abdullah/Power_BI-Healthcare-Analytics/blob/main/docs/Healthcare%20DB_p1.png" width="1000" heigh="1000"/></br>
-
-<img src="https://github.com/sameh-abdullah/Power_BI-Healthcare-Analytics/blob/main/docs/Healthcare%20DB_p2.png" width="1000" heigh="1000"/>
+<pdf src="https://github.com/sameh-abdullah/Power_BI-Healthcare-Analytics/blob/main/docs/Healthcare%20DB_p1.png" width="1000" heigh="1000"/></br>
 
 ---
 
