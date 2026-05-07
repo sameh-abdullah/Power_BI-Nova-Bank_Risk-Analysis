@@ -26,14 +26,14 @@ The dashboard tells the story of loan amount across different dimensions, identi
 - **Main Table:** `Credit_Risk_Data`
 
 ## 📝 Key Features
-- Total patients, total bills, and average service time tracking
-- Year-over-year comparisons for patients and billing
-- Percentage-to-average metrics and color-coded performance indicators
-- Age category, blood type, and medical condition analysis
-- Hospital, doctor, medication, and insurance provider filtering
-- Date-based analytics with admission and discharge date support
-- Dynamic parameter selection for bill amount vs. average service time
-- Geographic support via hospital latitude and longitude fields 
+- Data ingestion and modeling for credit application and borrower history
+- Risk scoring with measures for default probability and creditworthiness
+- Cleaned and transformed source tables for reliable analysis
+- Visual analytics for portfolio risk, approval rates, and loss exposure
+- Segment analysis by customer profile, income, and loan type
+- Interactive report filters for time periods, risk bands, and geographies
+- KPI tracking for approval performance, bad debt, and recovery
+- Support for scenario comparison and decision-making insights
 
 ---
 
