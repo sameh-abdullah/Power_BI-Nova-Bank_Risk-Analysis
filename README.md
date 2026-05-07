@@ -67,7 +67,7 @@ Star schema with a fact table and lookup tables
 **Interactive Dashboard** <a href="https://app.powerbi.com/view?r=eyJrIjoiMTZkY2Y0N2UtMzg4MS00MzQ2LTg5YzgtMTc2MzIxYjUxZDI2IiwidCI6IjE1ODgyNjJkLTIzZmItNDNiNC1iZDZlLWJjZTQ5YzhlNjE4NiIsImMiOjh9"> Nova Bank risk analysis Dashboard</a></br>
 
 **Project Dashboard Image**
-<img src="https://github.com/sameh-abdullah/Power_BI-Nova-Bank_Risk-Analysis/blob/main/Docs/Cred_Risk_challenge%20PowerBI_V02.pdf" width="1000"/></br>
+<img src="https://github.com/sameh-abdullah/Power_BI-Nova-Bank_Risk-Analysis/blob/main/Docs/Risk%20analysis_main%20page.png" width="1000" high="1000"/></br>
 
 ---
 
