@@ -38,7 +38,8 @@ The dashboard tells the story of loan amount across different dimensions, identi
 ---
 
 ## 🧠 Data Model
-Star schema with a fact table and lookup tables
+ Star schema with a fact table and lookup tables
+ 
 ---
 
 ## 🛠️ Tools & Technologies
